@@ -1,0 +1,13 @@
+com.fyp_poc.demo
+com.fyp_poc.demo.AggObjects
+com.fyp_poc.demo.controllers.bazelStats
+com.fyp_poc.demo.controllers.builds
+com.fyp_poc.demo.controllers.buildTests
+com.fyp_poc.demo.controllers.cppCheck
+com.fyp_poc.demo.DTO
+com.fyp_poc.demo.repositories
+com.fyp_poc.demo.services.bazelStats
+com.fyp_poc.demo.services.bazelStatsVector
+com.fyp_poc.demo.services.builds
+com.fyp_poc.demo.services.buildTests
+com.fyp_poc.demo.services.cppCheck
